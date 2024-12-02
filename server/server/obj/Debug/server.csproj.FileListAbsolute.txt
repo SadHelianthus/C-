@@ -1,0 +1,70 @@
+C:\Users\hbeu_lqy\Desktop\server\server\bin\Debug\server.exe.config
+C:\Users\hbeu_lqy\Desktop\server\server\bin\Debug\server.exe
+C:\Users\hbeu_lqy\Desktop\server\server\bin\Debug\server.pdb
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.Form1.resources
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.exe
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.pdb
+C:\Users\hbeu_lqy\Desktop\server\server\bin\Debug\Json.Net.dll
+C:\Users\hbeu_lqy\Desktop\server\server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbeu_lqy\Desktop\server\server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbeu_lqy\Desktop\server\server\obj\Debug\server.csproj.Up2Date
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\bin\Debug\server.exe.config
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\bin\Debug\server.exe
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\bin\Debug\server.pdb
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\bin\Debug\Json.Net.dll
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.Form1.resources
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.csproj.Up2Date
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.exe
+C:\Users\hbeu_lqy\Desktop\网络编程备课\server\server\obj\Debug\server.pdb
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\bin\Debug\server.exe.config
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\bin\Debug\server.exe
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\bin\Debug\server.pdb
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\bin\Debug\Json.Net.dll
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.Form1.resources
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.csproj.Up2Date
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.exe
+C:\Users\hbeu_lqy\Desktop\网络编程第15周课件\server\server\obj\Debug\server.pdb
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\bin\Debug\server.exe.config
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.exe
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.pdb
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\bin\Debug\server.exe
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\bin\Debug\server.pdb
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\bin\Debug\Json.Net.dll
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.Form1.resources
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\server\server\obj\Debug\server.csproj.Up2Date
+D:\C#netbiancheng\zy1\server\server\bin\Debug\server.exe.config
+D:\C#netbiancheng\zy1\server\server\bin\Debug\server.exe
+D:\C#netbiancheng\zy1\server\server\bin\Debug\server.pdb
+D:\C#netbiancheng\zy1\server\server\bin\Debug\Json.Net.dll
+D:\C#netbiancheng\zy1\server\server\bin\Debug\Newtonsoft.Json.dll
+D:\C#netbiancheng\zy1\server\server\bin\Debug\Newtonsoft.Json.xml
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.Form1.resources
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.Properties.Resources.resources
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.csproj.Up2Date
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.exe
+D:\C#netbiancheng\zy1\server\server\obj\Debug\server.pdb
