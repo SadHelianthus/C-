@@ -1,0 +1,78 @@
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\bin\Debug\test.exe.config
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\bin\Debug\test.exe
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\bin\Debug\test.pdb
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.Form1.resources
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.exe
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.pdb
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbeu_lqy\Desktop\workspace\test\test\obj\Debug\test.csproj.Up2Date
+C:\Users\hbeu_lqy\Desktop\client\test\bin\Debug\test.exe.config
+C:\Users\hbeu_lqy\Desktop\client\test\bin\Debug\test.exe
+C:\Users\hbeu_lqy\Desktop\client\test\bin\Debug\test.pdb
+C:\Users\hbeu_lqy\Desktop\client\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbeu_lqy\Desktop\client\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.Form1.resources
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.kaoshi.resources
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.csproj.Up2Date
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.exe
+C:\Users\hbeu_lqy\Desktop\client\test\obj\Debug\test.pdb
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\bin\Debug\test.exe.config
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\obj\Debug\test.exe
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\obj\Debug\test.pdb
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\obj\Debug\test.Form1.resources
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\obj\Debug\test.kaoshi.resources
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\网络编程第15周课件\client\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\bin\Debug\test.exe.config
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\bin\Debug\test.exe
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\bin\Debug\test.pdb
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.Form1.resources
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.kaoshi.resources
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.csproj.Up2Date
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.exe
+C:\Users\hbeu_lqy\Desktop\假死\网络编程第15周课件（正在解决server假死）\网络编程第15周课件\client\test\obj\Debug\test.pdb
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\bin\Debug\test.exe.config
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\bin\Debug\test.exe
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\bin\Debug\test.pdb
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.Form1.resources
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.kaoshi.resources
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.csproj.Up2Date
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.exe
+C:\Users\10721\Desktop\生活不易           小哲叹气\C#网络编程\作业\登录验证 完善版\client\test\obj\Debug\test.pdb
+D:\C#netbiancheng\zy1\client\test\bin\Debug\test.exe.config
+D:\C#netbiancheng\zy1\client\test\bin\Debug\test.exe
+D:\C#netbiancheng\zy1\client\test\bin\Debug\test.pdb
+D:\C#netbiancheng\zy1\client\test\bin\Debug\Newtonsoft.Json.dll
+D:\C#netbiancheng\zy1\client\test\bin\Debug\Newtonsoft.Json.xml
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.Form1.resources
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.kaoshi.resources
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.Properties.Resources.resources
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.RegisterForm.resources
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.csproj.Up2Date
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.exe
+D:\C#netbiancheng\zy1\client\test\obj\Debug\test.pdb
